@@ -5,19 +5,15 @@
   "version": "0.0.1",
   "compatibility": {
     "minimum": 14,
-    "verified": 14
+    "verified": 14,
+    "maximum": 14
   },
-  "background": "systems/m20-wod/official/m20-ico.jpg",
+  "background": "systems/m20-wod/assets/m20-ico.jpg",
   "media": [
     {
-      "type": "cover",
-      "loop": false,
-      "flags": {}
-    },
-    {
       "type": "setup",
-      "url": "systems/m20-wod/official/m20-ico.jpg",
-      "thumbnail": "systems/m20-wod/official/m20-ico.jpg"
+      "url": "systems/m20-wod/assets/m20-ico.jpg",
+      "thumbnail": "systems/m20-wod/assets/m20-ico.jpg"
     }
   ]
 }
