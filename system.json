@@ -1,0 +1,23 @@
+{
+  "id": "m20-wod",
+  "title": "Mage 20th Anniversary Edition",
+  "description": "A cleaner more user friendly implementation of the World of Darkness Mage 20th Anniversary Edition system!",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": 14,
+    "verified": 14
+  },
+  "background": "systems/m20-wod/official/m20-ico.jpg",
+  "media": [
+    {
+      "type": "cover",
+      "loop": false,
+      "flags": {}
+    },
+    {
+      "type": "setup",
+      "url": "systems/m20-wod/official/m20-ico.jpg",
+      "thumbnail": "systems/m20-wod/official/m20-ico.jpg"
+    }
+  ]
+}
